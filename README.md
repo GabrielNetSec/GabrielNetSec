@@ -19,15 +19,11 @@ I am a Network Engineer, with many years of experience implementing projects rel
 
 Excellent problem-solving skills, time management, leadership, flexibility, analytical thinking, project planning, and ability to quickly learn new technologies and complex systems.
 
-Responsible, team player, keen learner, hard-working disciplined and organized, stress-resistant, resourceful, perform quality work and complete it on time. Result and client-oriented focused on helping the company accomplish its goals and being a valuable resource. 
-
-
 ## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
