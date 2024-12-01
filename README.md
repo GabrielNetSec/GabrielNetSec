@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 I am a Network Engineer, with many years of experience implementing projects related to Telecommunications, Networking infrastructure, Cybersecurity, Cloud, DevOps, and the IT industry.
 
-Excellent problem-solving skills, time management, leadership, flexibility, analytical thinking, project planning, and ability to quickly learn new technologies and complex systems.
+ I am a Telecommunications and IT professional with extensive experience planning, implementing and managing large-scale networks, including mobile networks, ISP, Cybersecurity, and cloud infrastructure. Knowledge in network automation using Python and expertise in IP networking and project management.
 
-Currently Studynt MTIS At University of Victoria (UVic) - Canada
+Excellent problem-solving skills, time management, leadership, flexibility, analytical thinking, project planning, and ability to quickly learn new technologies and complex systems.
+Recognized for problem-solving skills, leadership, and adaptability. Demonstrates strong time management, analytical thinking, and the ability to quickly master new technologies and complex systems. A disciplined, organized, and resourceful team player committed to delivering high-quality results on time, even under pressure.
+
+Currently pursuing a Master of Engineering in Telecommunications and Information Security (MTIS) at the University of Victoria (UVic) - Canada.
 
 ## Objective
 
@@ -60,18 +63,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
+
 </div>
 
 ### Coding
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-C%2B%2B-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white" />
-
-</div>
-
-### SIEM
-<div>
-   <img src="https://img.shields.io/badge/-IBM%20QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
 
 </div>
 
@@ -84,6 +84,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </div>
 
+### SIEM
+<div>
+   <img src="https://img.shields.io/badge/-IBM%20QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
+
+</div>
 
 ## Certifications
 
