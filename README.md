@@ -44,6 +44,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-GNS3-0078D7?&style=for-the-badge&logo=GNS3&logoColor=white" />
     <img src="https://img.shields.io/badge/-SecureCRT-0078D7?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20IOS%2FXR-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+
 
 </div>
 
