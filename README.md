@@ -19,6 +19,8 @@ I am a Network Engineer, with many years of experience implementing projects rel
 
 Excellent problem-solving skills, time management, leadership, flexibility, analytical thinking, project planning, and ability to quickly learn new technologies and complex systems.
 
+Currently Studynt MTIS At University of Victoria (UVic) - Canada
+
 ## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
@@ -85,9 +87,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <div>
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PMP-0071C5?&style=for-the-badge&logo=Project%20Management%20Institute&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+   <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/-DevNet-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+   <img src="https://img.shields.io/badge/-PMP-0071C5?&style=for-the-badge&logo=Project%20Management%20Institute&logoColor=white" />
 
 </div>
 
