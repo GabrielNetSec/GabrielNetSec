@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Telecommunications | Cybersecurity | Network Automation
 
-I am a Network Engineer with extensive experience in Telecommunications, Networking Infrastructure, Cybersecurity, Cloud, DevOps, and IT. Skilled in planning, implementing, and managing large-scale networks, including mobile networks, ISPs, and cloud systems. Proficient in network automation with Python and experience in IP networking and project management.
+I am a Network Engineer with experience in Telecommunications, Networking, Cybersecurity, and DevOps. Skilled in planning, implementing, and managing large-scale networks, including mobile networks, ISPs, and cloud systems. Proficient in network automation with Python and experience in IP networking and Project Management.
 
 Recognized for problem-solving, adaptability, and leadership, I thrive under pressure, delivering high-quality results.  Currently pursuing a Master of Engineering in Telecommunications and Information Security (MTIS) at the University of Victoria (UVic) - Canada.
 
