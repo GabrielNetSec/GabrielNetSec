@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 Telecommunications | Cybersecurity | Network Automation
 
-I am a Network Engineer with experience in Telecommunications, Networking, Cybersecurity, and DevOps. Skilled in planning, implementing, and managing large-scale networks, including mobile networks, ISPs, and cloud systems. Proficient in network automation with Python and experience in IP networking and Project Management.
+I am a Network Engineer with experience in Telecommunications, Networking, Cybersecurity, and DevOps. Skilled in planning, implementing, and managing large-scale networks, including mobile networks, ISP infrastructure, and Cloud systems. Proficient in network automation with Python and experience in coding and Project Management.
 
 Recognized for problem-solving, adaptability, and leadership, I thrive under pressure, delivering high-quality results.  Currently pursuing a Master of Engineering in Telecommunications and Information Security (MTIS) at the University of Victoria (UVic) - Canada.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a DevSecOps Analyst Or Pentest Engineer.
 
 ## Skills
 
