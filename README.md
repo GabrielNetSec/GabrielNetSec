@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 # Hello, My name is Gabriel 👋
 <a href="https://linkedin.com/in/gabriel-naranjo-orozco/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Network Engineer, with many years of experience implementing projects related to Telecommunications, Networking infrastructure, Cybersecurity, Cloud, DevOps, and the IT industry.
+Telecommunications | Cybersecurity | Network Automation
 
- I am a Telecommunications and IT professional with extensive experience planning, implementing and managing large-scale networks, including mobile networks, ISP, Cybersecurity, and cloud infrastructure. Knowledge in network automation using Python and expertise in IP networking and project management.
+I am a Network Engineer with extensive experience in Telecommunications, Networking Infrastructure, Cybersecurity, Cloud, DevOps, and IT. Skilled in planning, implementing, and managing large-scale networks, including mobile networks, ISPs, and cloud systems. Proficient in network automation with Python and experience in IP networking and project management.
 
-Excellent problem-solving skills, time management, leadership, flexibility, analytical thinking, project planning, and ability to quickly learn new technologies and complex systems.
-Recognized for problem-solving skills, leadership, and adaptability. Demonstrates strong time management, analytical thinking, and the ability to quickly master new technologies and complex systems. A disciplined, organized, and resourceful team player committed to delivering high-quality results on time, even under pressure.
-
-Currently pursuing a Master of Engineering in Telecommunications and Information Security (MTIS) at the University of Victoria (UVic) - Canada.
+Recognized for problem-solving, adaptability, and leadership, I thrive under pressure, delivering high-quality results.  Currently pursuing a Master of Engineering in Telecommunications and Information Security (MTIS) at the University of Victoria (UVic) - Canada.
 
 ## Objective
 
