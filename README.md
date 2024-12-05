@@ -23,10 +23,11 @@ Recognized for problem-solving, adaptability, and leadership, I thrive under pre
 
 ## Objective
 
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a DevSecOps Analyst Or Pentest Engineer.
+My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a DevSecOps Analyst or a red team as a Pentesting Engineer.
 
 ## Skills
 
+<!--
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
@@ -35,6 +36,14 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+-->
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| IoT Technology Implementation                 | <a href="https://github.com/GabrielNetSec/IoT-Projects">IoT Analitycs and Security Project (EC569A) at UVic</a>|
+| Analysis & Design of Communication Networks   | <a href="https://google.com">Roonmate Internet Sharing (EC514) at UVic</a>|
+| Network Defence - Firewalls and IPSs          | <a href="https://github.com/GabrielNetSec/IoT-Projects">Cisco ASA & PA IPS Configuration Projects (EC519C) at UVic</a>|
+| Scripting and Automation with Python          | <a href="https://github.com/GabrielNetSec/Python-Network-Programmability">Python-Network-Programmability</a>|
 
 ## Tools
 
@@ -98,8 +107,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </div>
 
 ## Projects
-- <a href="https://google.com](https://github.com/GabrielNetSec/Python-Network-Programmability">Python-Network-Programmability</a>
 - <a href="https://github.com/GabrielNetSec/IoT-Projects">IoT Implementation Project</a>
+- <a href="https://google.com](https://github.com/GabrielNetSec/Python-Network-Programmability">Python-Network-Programmability</a>
 - Detection Lab
 - SOC Automation Project
 - Pentesting
