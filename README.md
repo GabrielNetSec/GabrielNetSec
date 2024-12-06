@@ -94,6 +94,8 @@ My journey in IT has led me to develop a passion for Cybersecurity, and I am now
 ### SIEM
 <div>
    <img src="https://img.shields.io/badge/-IBM%20QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+
 
 </div>
 
