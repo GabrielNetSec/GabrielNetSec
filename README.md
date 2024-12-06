@@ -46,7 +46,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 |-----------------------------------------------|----------------------------|
 | IoT Technology Implementation                 | <a href="https://github.com/GabrielNetSec/IoT-Projects">IoT Analitycs and Security Project (EC569A) at UVic</a>|
 | Analysis & Design of Communication Networks   | <a href="https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic">Roommate Internet Sharing (EC514) at UVic</a>|
-| Network Defence - Firewalls and IPSs          | <a href="https://github.com/GabrielNetSec/IoT-Projects](https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic)">Cisco ASA & PA IPS Configuration Projects (EC519C) at UVic</a>|
+| Network Defence - Firewalls and IPSs          | <a href="https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic">Cisco ASA & PA IPS Configuration Projects (EC519C) at UVic</a>|
 | Scripting and Automation with Python          | <a href="https://github.com/GabrielNetSec/Python-Network-Programmability">Python-Network-Programmability</a>|
 
 ## Tools
@@ -110,7 +110,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </div>
 
 ## Projects
-- <a href="https://github.com/GabrielNetSec/IoT-Projects">IoT Analitycs and Security Project (EC569A) at UVic</a>|
-- <a href="https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic">Roommate Internet Sharing (EC514) at UVic</a>|
-- <a href="https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic">Cisco ASA FW & PA IPS Configuration Projects (EC519C) at UVic</a>|
+- <a href="https://github.com/GabrielNetSec/IoT-Projects">IoT Analitycs and Security Project (EC569A) at UVic</a>
+- <a href="https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic">Roommate Internet Sharing (EC514) at UVic</a>
+- <a href="https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic">Cisco ASA FW & PA IPS Configuration Projects (EC519C) at UVic</a>
 - <a href="https://github.com/GabrielNetSec/Python-Network-Programmability">Python-Network-Programmability</a>
