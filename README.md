@@ -27,7 +27,7 @@ Currently pursuing a Master of Engineering in Telecommunications and Information
 
 ## Objective
 
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a DevSecOps Analyst or a Red Team as a Pentesting Engineer.
+My journey in IT has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a DevSecOps Analyst or a Red Team as a Pentesting Engineer.
 
 ## Skills
 
