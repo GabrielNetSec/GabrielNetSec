@@ -17,13 +17,17 @@ Here are some ideas to get you started:
 
 Telecommunications | Cybersecurity | Network Automation
 
-I am a Network Engineer with experience in Telecommunications, Networking, Cybersecurity, and DevOps. Skilled in planning, implementing, and managing large-scale networks, including mobile networks, ISP infrastructure, and Cloud systems. Proficient in network automation with Python and experience in coding and Project Management.
+I am a Network Engineer with experience in Telecommunications, IP Networking, Cybersecurity, and DevOps. Skilled in planning, implementing, and managing large-scale networks, including mobile networks, ISP infrastructure, and Cloud systems. 
 
-Recognized for problem-solving, adaptability, and leadership, I thrive under pressure, delivering high-quality results.  Currently pursuing a Master of Engineering in Telecommunications and Information Security (MTIS) at the University of Victoria (UVic) - Canada.
+Proficient in network automation (DevNet) with Python and experience in Coding and Project Management.
+
+Recognized for problem-solving, adaptability, and leadership, I thrive under pressure, delivering high-quality results.  
+
+Currently pursuing a Master of Engineering in Telecommunications and Information Security (MTIS) at the University of Victoria (UVic) - Canada.
 
 ## Objective
 
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a DevSecOps Analyst or a red team as a Pentesting Engineer.
+My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a DevSecOps Analyst or a Red Team as a Pentesting Engineer.
 
 ## Skills
 
@@ -41,8 +45,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | IoT Technology Implementation                 | <a href="https://github.com/GabrielNetSec/IoT-Projects">IoT Analitycs and Security Project (EC569A) at UVic</a>|
-| Analysis & Design of Communication Networks   | <a href="https://google.com">Roonmate Internet Sharing (EC514) at UVic</a>|
-| Network Defence - Firewalls and IPSs          | <a href="https://github.com/GabrielNetSec/IoT-Projects">Cisco ASA & PA IPS Configuration Projects (EC519C) at UVic</a>|
+| Analysis & Design of Communication Networks   | <a href="https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic">Roommate Internet Sharing (EC514) at UVic</a>|
+| Network Defence - Firewalls and IPSs          | <a href="https://github.com/GabrielNetSec/IoT-Projects](https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic)">Cisco ASA & PA IPS Configuration Projects (EC519C) at UVic</a>|
 | Scripting and Automation with Python          | <a href="https://github.com/GabrielNetSec/Python-Network-Programmability">Python-Network-Programmability</a>|
 
 ## Tools
@@ -54,7 +58,6 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
     <img src="https://img.shields.io/badge/-SecureCRT-0078D7?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco%20IOS%2FXR-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
-
 
 </div>
 
@@ -107,8 +110,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </div>
 
 ## Projects
-- <a href="https://github.com/GabrielNetSec/IoT-Projects">IoT Implementation Project</a>
-- <a href="https://google.com](https://github.com/GabrielNetSec/Python-Network-Programmability">Python-Network-Programmability</a>
-- Detection Lab
-- SOC Automation Project
-- Pentesting
+- <a href="https://github.com/GabrielNetSec/IoT-Projects">IoT Analitycs and Security Project (EC569A) at UVic</a>|
+- <a href="https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic">Roommate Internet Sharing (EC514) at UVic</a>|
+- <a href="https://github.com/GabrielNetSec/IoT-Projects](https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic)">Cisco ASA FW & PA IPS Configuration Projects (EC519C) at UVic</a>|
+- <a href="https://github.com/GabrielNetSec/Python-Network-Programmability">Python-Network-Programmability</a>
