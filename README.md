@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 # Hello, My name is Gabriel 👋
 <a href="https://linkedin.com/in/gabriel-naranjo-orozco/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an IT Engineer with experience in Telecommunications, IP Networking, Cybersecurity, and DevOps. Skilled in planning, implementing, and managing large-scale networks, including mobile networks, ISP infrastructure, and Cloud systems. 
+I am an IT Engineer with experience in Telecommunications, IP Networking, Cybersecurity, and DevOps. Skilled in planning, implementing, and managing large-scale networks, including Mobile Data Networks, ISP infrastructure, and Cloud systems. 
 
-Proficient in network automation (DevNet) with Python and experience in Coding and Project Management.
+Proficient in network automation (DevNet) with Python, and experience in Coding and Project Management.
 
 Recognized for problem-solving, adaptability, and leadership, I thrive under pressure, delivering high-quality results.  
 
