@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Telecommunications | Cybersecurity | Network Automation
 
-I am a Network Engineer with experience in Telecommunications, IP Networking, Cybersecurity, and DevOps. Skilled in planning, implementing, and managing large-scale networks, including mobile networks, ISP infrastructure, and Cloud systems. 
+I am an IT Engineer with experience in Telecommunications, IP Networking, Cybersecurity, and DevOps. Skilled in planning, implementing, and managing large-scale networks, including mobile networks, ISP infrastructure, and Cloud systems. 
 
 Proficient in network automation (DevNet) with Python and experience in Coding and Project Management.
 
