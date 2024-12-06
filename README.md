@@ -112,5 +112,5 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ## Projects
 - <a href="https://github.com/GabrielNetSec/IoT-Projects">IoT Analitycs and Security Project (EC569A) at UVic</a>|
 - <a href="https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic">Roommate Internet Sharing (EC514) at UVic</a>|
-- <a href="https://github.com/GabrielNetSec/IoT-Projects](https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic)">Cisco ASA FW & PA IPS Configuration Projects (EC519C) at UVic</a>|
+- <a href="https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic">Cisco ASA FW & PA IPS Configuration Projects (EC519C) at UVic</a>|
 - <a href="https://github.com/GabrielNetSec/Python-Network-Programmability">Python-Network-Programmability</a>
