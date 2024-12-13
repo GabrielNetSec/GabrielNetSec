@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, My name is Gabriel 👋
+# Hello, My name is Gabriel 👋 Welcome to my ePortfolio!
 <a href="https://linkedin.com/in/gabriel-naranjo-orozco/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an IT Engineer with experience in Telecommunications, IP Networking, Cybersecurity, and DevOps. Skilled in planning, implementing, and managing large-scale networks, including Mobile Data Networks, ISP infrastructure, and Cloud systems. 
@@ -40,7 +40,7 @@ My journey in IT has led me to develop a passion for Cybersecurity, and I am now
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 -->
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project (At UVic)        |
 |-----------------------------------------------|----------------------------|
 | IoT Technology Implementation                 | <a href="https://github.com/GabrielNetSec/IoT-Projects">IoT Analitycs and Security Project (EC569A) at UVic</a>|
 | Analysis & Design of Communication Networks   | <a href="https://github.com/GabrielNetSec/MTIS-Project-Courses-at-UVic">Roommate Wi-Fi Sharing (EC514) at UVic</a>|
