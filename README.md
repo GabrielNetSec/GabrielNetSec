@@ -92,7 +92,7 @@ My journey in IT has led me to develop a passion for Cybersecurity, and I am now
 ### Firewalls/IPS
 <div>
    <img src="https://img.shields.io/badge/-Cisco%20ASA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-0081C6?&style=for-the-  badge&logo=Palo%20Alto%20Networks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-0081C6?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
   <img src="https://img.shields.io/badge/-Check%20Point-FF5454?&style=for-the-badge&logo=Check%20Point&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Firepower-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
